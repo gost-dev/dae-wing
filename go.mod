@@ -13,7 +13,7 @@ require (
 	github.com/matoous/go-nanoid/v2 v2.0.0
 	github.com/mohae/deepcopy v0.0.0-20170929034955-c48cc78d4826
 	github.com/mzz2017/softwind v0.0.0-20230803152605-5f1f6bc06934
-	github.com/rs/cors v1.9.0
+	github.com/rs/cors v1.11.0
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.7.0
 	github.com/stoewer/go-strcase v1.3.0
